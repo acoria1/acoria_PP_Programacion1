@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1589801478 source:c:\users\agusi\desktop\acoria_pp_programacion1\acoria_pp_prog1\ac_getfunciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"ac_getFunciones.h"
+
+1589797848 c:\users\agusi\desktop\acoria_pp_programacion1\acoria_pp_prog1\ac_getfunciones.h
+
+1589801376 source:c:\users\agusi\desktop\acoria_pp_programacion1\acoria_pp_prog1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"ac_getFunciones.h"
+
+1589805557 source:c:\users\agusi\desktop\acoria_pp_programacion1\acoria_pp_prog1\contarcaracteres.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"contarCaracteres.h"
+
+1589805888 c:\users\agusi\desktop\acoria_pp_programacion1\acoria_pp_prog1\contarcaracteres.h
+
+1589805557 source:c:\users\agusi\desktop\acoria_pp_programacion1\acoria_pp_prog1\descuento.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"descuento.h"
+
+1589805828 c:\users\agusi\desktop\acoria_pp_programacion1\acoria_pp_prog1\descuento.h
+
+1589805528 source:c:\users\agusi\desktop\acoria_pp_programacion1\acoria_pp_prog1\notebooks.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"notebooks.h"
+
+1589805768 c:\users\agusi\desktop\acoria_pp_programacion1\acoria_pp_prog1\notebooks.h
+
